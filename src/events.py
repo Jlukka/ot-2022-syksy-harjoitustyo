@@ -1,5 +1,10 @@
 import pygame
 
+
 class Events:
     def __init__(self):
-        self.ENEMY_DEATH = pygame.event.custom_type()
+        self.enemy_death = pygame.event.custom_type()
+        self.goal_reached = pygame.event.custom_type()
+
+
+userEvents = Events()

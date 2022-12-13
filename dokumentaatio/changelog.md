@@ -12,3 +12,10 @@
  
 - Aloitin luokkien toteuttamisen
 - Huomattavasti tavoitteista jäljessä, tavoitteena ottaa kiinni ensi viikkoon mennessä.
+
+## Viikko 6
+
+- Ensimmäinen versio ohjelmasta jossa käyttäjälle näkyy jotain
+- Viholliset liikkuvat kartassa eteenpäin
+- Pygamen kannalta oleelliset luokat (clock, renderer jne ) luotu
+- Ohjelma edelleen jäljessä aikataulusta mutta uskon että saan sen valmiiksi enne loppupalautusta.

@@ -1,5 +1,6 @@
 import pygame
 
+
 class Tower(pygame.sprite.Sprite):
     def __init__(self, image, x=0, y=0, radius=2, damage=1, firerate=1):
         super().__init__()
